@@ -1,7 +1,7 @@
-# GitHub for Developers
+# GitHub for Non-Developers
 
-- Class Date: February 28 - March 3, 2022
-- Facilitator: @allthedoll :taco:
+- Class Date: May 3 - May 4, 2022
+- Facilitator: @evgenyrahman :taco:
 
 ## Class Resources
 
