@@ -61,5 +61,4 @@ After you have completed this course, you are probably wondering where to go fro
 
 ### Changes
 
-- this is a change
-- this is another change
+- Changes to the README.md from fork
