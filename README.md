@@ -67,6 +67,9 @@ After you have completed this course, you are probably wondering where to go fro
 ### Class list
 
 - @evgenyrahman
+- @dthompson-hstm
+- @mikeyg314
 - @anitha0530
+- @dthompson
 - @mikeyg314
 - @rachanadighe
