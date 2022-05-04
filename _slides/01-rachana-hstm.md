@@ -3,4 +3,4 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Use the right arrow to begin!
+This is a update made for GitHub training by user rachana-hstm
