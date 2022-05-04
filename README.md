@@ -68,3 +68,6 @@ After you have completed this course, you are probably wondering where to go fro
 
 - @evgenyrahman
 - @leighanneduvall
+- @mikeyg314
+- @anitha0530
+
