@@ -61,5 +61,5 @@ After you have completed this course, you are probably wondering where to go fro
 
 ### Changes
 
-- this is a change
-- this is another change
+- Local changes that have not been pushed to the remote repository.
+- Some more changes
